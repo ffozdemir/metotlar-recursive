@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\metotlar-recursive.exe
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\metotlar-recursive.deps.json
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\metotlar-recursive.runtimeconfig.json
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\metotlar-recursive.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\metotlar-recursive.dll
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\ref\metotlar-recursive.dll
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\bin\Debug\net5.0\metotlar-recursive.pdb
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.dll
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\ref\metotlar-recursive.dll
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.pdb
+C:\Users\Owner\Desktop\Pratikler\metotlar-recursive\obj\Debug\net5.0\metotlar-recursive.genruntimeconfig.cache
